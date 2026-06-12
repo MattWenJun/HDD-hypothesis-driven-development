@@ -1,5 +1,7 @@
 # HDD — Hypothesis-Driven Development
 
+**English** | [中文](README.zh.md)
+
 **A skill that stops your AI agent from confidently working on a wrong premise.**
 
 HDD is an Agent Skill: a methodology for diagnosis, debugging, optimization,
@@ -75,6 +77,18 @@ edits (rename a title, add an import).
 > Tool names inside `SKILL.md` (read/write files, memory search, web search,
 > run commands) are capability descriptions — swap them for whatever your agent
 > environment actually provides.
+
+## ⭐ Like it? Star it!
+
+If HDD helps your agent think straight instead of guessing, give it a **star** — it helps others find it too.
+
+## Follow Me
+
+I write about AI, startups, and psychology.
+
+- **WeChat public account:** MindCode
+- **X:** [@moneygalaxy](https://x.com/moneygalaxy)
+- **Substack:** [mindcodeplus](https://substack.com/@mindcodeplus)
 
 ## License
 
